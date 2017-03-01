@@ -1,8 +1,8 @@
 # Roarange-System
-The pdf is an article in the Journal of Computing in Small Colleges and Universities about a 
-computer Two friends and I created out of logic circuits inspired by Morris M. Manno's theoretical 
-computer the Mano Machine. Unfortunately, a printout of the system schematics had to be so large
-in order to see the details that it is not included.
+The pdf in this repo is an article in the Journal of Computing in Small Colleges and Universities about a 
+computer two friends and I created out of logic circuits inspired by Morris M. Manno's theoretical 
+computer the Mano Machine. Unfortunately in order to see the details a printout of the system schematics 
+would need to be so large that it is not included.
 
 Wiki about Morris M. Mano's Mano Machine: <https://en.wikipedia.org/wiki/Mano_machine>
 
@@ -11,7 +11,8 @@ Two friends and I took a theoretical computer as described by _Morris M. Mano_ a
 life. As a result we were published in The Journal of Computing in Small Colleges and Universities
 and presented our project during the CCSC: Rocky Mountain Conference as a tool to help teach future
 students about computer architecture.
-We also named it Roarange to create a word that rymes with orange.
+We also named it Roarange to create a word that rymes with orange. (If you didn't know, orange is 
+the most famous english word without a perfect rhyme...until now)
 
 ## My contribution
 I initiated the project by gaining permission for a multi-person project and finding people to help. 
