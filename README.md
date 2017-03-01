@@ -1,6 +1,6 @@
 # Roarange-System
 The pdf is an article about a computer created out of logic circuits inspired by
-Morris M. Manno's Mano Machine.
+Morris M. Manno's theoretical computer the Mano Machine.
 
 Wiki about Morris M. Mano's Mano Machine: <https://en.wikipedia.org/wiki/Mano_machine>
 
@@ -18,4 +18,5 @@ reasonably possible in the time given out of logic gates such as AND, OR, NAND a
 the article states "we could have used fewer circuits." But I wanted to do as much as I could from 
 scratch, that was the whole point. The command set was also implemented in our own logic and I integrated
 an LCD display to have some form of output. I lived at and had pizzas delivered to the computer lab
-for several weeks to accomplish this.
+for several weeks to accomplish this. Our biggest challenge/accomplishment was doing something 
+we were not sure was possible.
