@@ -1,6 +1,7 @@
 # Roarange-System
-The pdf is an article about a computer created out of logic circuits inspired by
-Morris M. Manno's theoretical computer the Mano Machine.
+The pdf is an article in the Journal of Computing in Small Colleges and Universities about a 
+computer Two friends and I created out of logic circuits inspired by Morris M. Manno's theoretical 
+computer the Mano Machine.
 
 Wiki about Morris M. Mano's Mano Machine: <https://en.wikipedia.org/wiki/Mano_machine>
 
